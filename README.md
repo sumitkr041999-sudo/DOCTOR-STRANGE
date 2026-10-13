@@ -27,7 +27,8 @@ Example:
 - **Agent:** Hello Sumit Kumar! Nice to meet you! How can I help you today? If it's related to health, medicines, hospitals, or medical guidance, I'm here for that.
 
 ## Screenshots
-Add screenshots of the agent chat here, for example: `![Chat demo](screenshot1.png)`
+Add screenshots of the agent chat here, for example: `![Chat demo] (<img width="591" height="845" alt="Screenshot 2026-10-13 113228" src="https://github.com/user-attachments/assets/c1b12216-6011-472f-91b2-c6ad241f76f2" />
+`
 
 ## Disclaimer
 This agent provides general information only and is not a substitute for a doctor. In an emergency, contact local emergency services immediately.
